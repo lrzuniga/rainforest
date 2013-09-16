@@ -1,18 +1,15 @@
 class ProductsController < ApplicationController
   before_filter :ensure_logged_in, :only => [:show]
-  # GET /products
-  # GET /products.json
+
   def index
     @products = Product.all
 
     respond_to do |format|
-      format.html # index.html.erb
+      format.html
       format.json { render json: @products }
     end
   end
 
-  # GET /products/1
-  # GET /products/1.json
   def show
   @product = Product.find(params[:id])
 
@@ -21,14 +18,11 @@ class ProductsController < ApplicationController
     end
 
     respond_to do |format|
-      format.html # show.html.erb
+      format.html
       format.json { render json: @product }
-      end
+    end
   end
 
-
-  # GET /products/new
-  # GET /products/new.json
   def new
     @product = Product.new
 
@@ -38,15 +32,11 @@ class ProductsController < ApplicationController
     end
   end
 
-  # GET /products/1/edit
   def edit
     @product = Product.find(params[:id])
   end
 
-  # POST /products
-  # POST /products.json
   def create
-    # @product = Product.new(params[:product])
     @product = Product.new(product_params)
 
     respond_to do |format|
@@ -60,13 +50,11 @@ class ProductsController < ApplicationController
     end
   end
 
-  # PUT /products/1
-  # PUT /products/1.json
   def update
     @product = Product.find(params[:id])
 
     respond_to do |format|
-      if @product.update_attributes(params[:product])
+      if @product.update_attributes(params.require(:product).permit(:name, :description, :price_in_cents))
         format.html { redirect_to @product, notice: 'Product was successfully updated.' }
         format.json { head :no_content }
       else
