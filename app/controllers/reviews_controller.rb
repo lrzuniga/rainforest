@@ -1,12 +1,15 @@
 class ReviewsController < ApplicationController
+  before_filter :ensure_logged_in, :only => [:edit, :create, :show, :update, :destroy]
+
   before_filter :load_product
+
 
   def show
     @review = Review.find(params[:id])
   end
 
   def create
-    @review = @product.reviews.build(params[:review])
+    @review = @product.reviews.build(review_params)
     @review.user_id = current_user.id
 
     # Check out this article on [.build](http://stackoverflow.com/questions/783584/ruby-on-rails-how-do-i-use-the-active-record-build-method-in-a-belongs-to-rel)
@@ -34,5 +37,9 @@ class ReviewsController < ApplicationController
 
   def load_product
     @product = Product.find(params[:product_id])
+  end
+
+  def review_params
+    params.require(:review).permit(:review)
   end
 end
