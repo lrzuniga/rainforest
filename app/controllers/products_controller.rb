@@ -13,13 +13,18 @@ class ProductsController < ApplicationController
   # GET /products/1
   # GET /products/1.json
   def show
-    @product = Product.find(params[:id])
+  @product = Product.find(params[:id])
+
+    if current_user
+      @review = @product.reviews.build
+    end
 
     respond_to do |format|
       format.html # show.html.erb
       format.json { render json: @product }
-    end
+      end
   end
+
 
   # GET /products/new
   # GET /products/new.json
