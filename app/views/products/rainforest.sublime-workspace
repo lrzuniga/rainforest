@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"price_in_cents"
+			],
+			[
+				"form",
+				"formatted_price"
+			],
+			[
+				"parse",
+				"parse_response"
+			],
+			[
+				"raw_res",
+				"raw_response_id"
+			],
+			[
+				"html",
+				"html_end"
+			],
+			[
+				"bacr",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"weath",
+				"weather_right"
+			],
+			[
+				"wa",
+				"weather_right"
+			],
+			[
+				"waeth",
+				"weather_left"
+			],
+			[
+				"weather",
+				"weather_all"
+			],
+			[
+				"cit",
+				"city_all"
+			],
+			[
+				"weather_right",
+				"weather_right_array"
+			],
+			[
+				"city_righ",
+				"city_right_array"
+			],
+			[
+				"city_lef",
+				"city_left_array"
+			],
+			[
+				"weather_",
+				"weather_left"
+			],
+			[
+				"width-",
+				"width-25"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"contact",
+				"contact_to_be_modified"
+			],
+			[
+				"contact_to",
+				"contact_to_be_modified"
+			],
+			[
+				"id",
+				"find_by_id"
+			],
+			[
+				"display",
+				"display_all_contacts"
+			],
+			[
+				"ma",
+				"main_menu"
+			],
+			[
+				"strings",
+				"strings"
+			],
+			[
+				"all",
+				"all_methods"
+			],
+			[
+				"user",
+				"user_word"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"f",
+				"f3f3f3"
+			],
+			[
+				"h",
+				"href	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: ",
+				"Snippet: singleton_class()"
+			],
+			[
+				"rub",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"htl",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"apples",
+				"Set Syntax: AppleScript"
+			]
+		],
+		"width": 375.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/products/show.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/products/index.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/products/edit.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/controllers/products_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/products/rainforest.sublime-project",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/models/product.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/layouts/application.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/products/_form.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/products/new.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/controllers/reviews_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/vendor/bundle/gems/rdoc-3.12.2/lib/rdoc/comment.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/users/new.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/controllers/users_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/models/user.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/controllers/application_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/models/review.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/controllers/sessions_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/config/routes.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/sessions/new.html.erb",
+		"/Users/lrzuniga/Desktop/animals.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/views/sessions/create.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/assets/stylesheets/application.css",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/vendor/bundle/gems/actionpack-4.0.0/lib/action_controller/metal/http_authentication.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/helpers/products_helper.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/app/assets/stylesheets/products.css.scss",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/Gemfile",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/vendor/bundle/gems/actionpack-4.0.0/lib/abstract_controller/railties/routes_helpers.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/rainforest/vendor/bundle/gems/rails-4.0.0/guides/code/getting_started/app/models/post.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/app/views/posts/new.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/app/views/posts/_form.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/app/views/posts/edit.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/app/views/posts/show.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/app/views/layouts/application.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/app/views/posts/index.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/app/models/post.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/app/controllers/posts_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/config/routes.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/config/application.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/app/controllers/application_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/vendor/bundle/gems/actionpack-4.0.0/lib/abstract_controller/railties/routes_helpers.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/config/database.yml",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/Gemfile",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/show.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/edit.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/controllers/pictures_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/config/routes.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/index.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/new.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/new.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/controllers/application_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/layouts/application.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/vendor/bundle/gems/sass-rails-4.0.0/test/fixtures/alternate_config_project/public/index.html",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/vendor/bundle/gems/sass-rails-4.0.0/test/fixtures/sass_project/public/index.html",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/vendor/bundle/gems/sass-rails-4.0.0/test/fixtures/scss_project/public/index.html",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/models/picture.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/db/seeds.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/spec/models/post_spec.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/db/migrate/20130904142103_create_posts.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/Gemfile",
+		"/Users/lrzuniga/BitMaker/rails_apps/blog/readme",
+		"/Users/lrzuniga/BitMaker/rails_apps/app1/photogur/config/routes.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/app1/photogur/app/controllers/pictures_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/pictures0.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/pictures1.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/pictures2.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/app1/photogur/app/views/pictures/index.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/picture2.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/picture1.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_apps/photogur/app/views/pictures/picture0.html.erb",
+		"/Users/lrzuniga/BitMaker/connoisseur/style.css",
+		"/Users/lrzuniga/BitMaker/connoisseur/test.html",
+		"/Users/lrzuniga/BitMaker/photogur/photogur_part_2/db/schema.rb",
+		"/Users/lrzuniga/BitMaker/connoisseur/html_generator.rb",
+		"/Users/lrzuniga/BitMaker/connoisseur/html_generator2.rb",
+		"/Users/lrzuniga/BitMaker/rails_lecture/app/views/home/index.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_lecture/app/views/show.html.erb",
+		"/Users/lrzuniga/BitMaker/rails_lecture/config/routes.rb",
+		"/Users/lrzuniga/BitMaker/rails_lecture/app/controllers/home_controller.rb",
+		"/Users/lrzuniga/BitMaker/rails_lecture/app/models/hello.rb",
+		"/Users/lrzuniga/BitMaker/rails_lecture/app/assets/stylesheets/application.css",
+		"/Users/lrzuniga/BitMaker/rails_lecture/Gemfile",
+		"/Users/lrzuniga/BitMaker/rails_lecture/app/views/home/home.erb",
+		"/Users/lrzuniga/BitMaker/rails_lecture/app/controllers/application_controller.rb",
+		"/Users/lrzuniga/BitMaker/nokogiri/weather_scrape.rb",
+		"/Users/lrzuniga/BitMaker/pdfkit/pdfkit_tofile.rb",
+		"/Users/lrzuniga/BitMaker/lcbo/routing.rb",
+		"/Users/lrzuniga/BitMaker/lcbo/json_test_openuri.rb",
+		"/Users/lrzuniga/BitMaker/lcbo/json_test.rb",
+		"/Users/lrzuniga/BitMaker/lcbo/args.rb",
+		"/Users/lrzuniga/BitMaker/elle/style.css",
+		"/Users/lrzuniga/BitMaker/nokogiri/style.css",
+		"/Users/lrzuniga/BitMaker/elle/page.html",
+		"/Users/lrzuniga/BitMaker/cities/cities.txt",
+		"/Users/lrzuniga/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/lrzuniga/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/lrzuniga/BitMaker/tmp/test.rb",
+		"/Users/lrzuniga/BitMaker/nokogiri/bike_scrape.rb",
+		"/Users/lrzuniga/BitMaker/learn_ruby/04_pig_latin/pig_latin_spec.rb",
+		"/Users/lrzuniga/BitMaker/learn_ruby/03_simon_says/simon_says_spec.rb",
+		"/Users/lrzuniga/BitMaker/learn_ruby/02_calculator/calculator.rb",
+		"/Users/lrzuniga/BitMaker/learn_ruby/02_calculator/calculator_spec.rb",
+		"/Users/lrzuniga/BitMaker/learn_ruby/01_temperature/temperature_spec.rb",
+		"/Users/lrzuniga/BitMaker/learn_ruby/01_temperature/temperature.rb",
+		"/Users/lrzuniga/BitMaker/learn_ruby/01_temperature/temperature.r",
+		"/Users/lrzuniga/BitMaker/learn_ruby/00_hello/hello.rb",
+		"/Users/lrzuniga/BitMaker/learn_ruby/00_hello/hello_spec.rb",
+		"/Users/lrzuniga/BitMaker/shopping_cart/spec/shopping_cart_spec",
+		"/Users/lrzuniga/BitMaker/rspec/lecture2/lib/test.rb",
+		"/Users/lrzuniga/BitMaker/rspec/lecture2/spec/test_spec.rb",
+		"/Users/lrzuniga/BitMaker/rspec/lecture2/file.rb",
+		"/Users/lrzuniga/BitMaker/rspec/lecture/spec/test_spec.rb",
+		"/Users/lrzuniga/BitMaker/crm/db_spec.rb",
+		"/Users/lrzuniga/BitMaker/shopping_cart/lib/shopping_cart.rb",
+		"/Users/lrzuniga/BitMaker/shopping_cart/spec/item_spec.rb",
+		"/Users/lrzuniga/BitMaker/shopping_cart/lib/item.rb",
+		"/Users/lrzuniga/BitMaker/shopping_cart/spec/item.rb",
+		"/Users/lrzuniga/Desktop/rakefile.rb",
+		"/Users/lrzuniga/Desktop/CMR Views.rb",
+		"/Users/lrzuniga/BitMaker/shopping_cart/spec/shop.rb",
+		"/Users/lrzuniga/BitMaker/CRM2/app.rb",
+		"/Users/lrzuniga/BitMaker/CRM2/db.rb",
+		"/Users/lrzuniga/BitMaker/crm/crm.rb",
+		"/Users/lrzuniga/BitMaker/crm/contact.rb",
+		"/Users/lrzuniga/BitMaker/crm/database.rb",
+		"/Users/lrzuniga/BitMaker/crmfinal/contact.rb",
+		"/Users/lrzuniga/BitMaker/crmfinal/database.rb",
+		"/Users/lrzuniga/BitMaker/crmfinal/crm.rb",
+		"/Users/lrzuniga/BitMaker/crmfinal/db_spec.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"authenticate",
+			"codealong",
+			"class",
+			"\n",
+			"default",
+			"self",
+			"Contact",
+			"puts",
+			"contact.",
+			"@@@",
+			"database",
+			"all_con",
+			"all_contacts",
+			"sum",
+			"fibo",
+			"flatten",
+			"images/",
+			"mega-octicon",
+			"fluid",
+			"fluidicon",
+			"fluid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"project": "rainforest.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"applica",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"product",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"review",
+				"app/controllers/reviews_controller.rb"
+			],
+			[
+				"comment",
+				"vendor/bundle/gems/rdoc-3.12.2/lib/rdoc/comment.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"use",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"produ",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"index",
+				"app/views/products/index.html.erb"
+			],
+			[
+				"show",
+				"app/views/products/show.html.erb"
+			],
+			[
+				"authenti",
+				"vendor/bundle/gems/actionpack-4.0.0/lib/action_controller/metal/http_authentication.rb"
+			],
+			[
+				"router",
+				"config/routes.rb"
+			],
+			[
+				"contro",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"prod",
+				"app/models/product.rb"
+			],
+			[
+				"appli",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"produc",
+				"app/models/product.rb"
+			],
+			[
+				"index.",
+				"app/views/products/index.html.erb"
+			],
+			[
+				"post",
+				"vendor/bundle/gems/rails-4.0.0/guides/code/getting_started/app/models/post.rb"
+			],
+			[
+				"products",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"",
+				"app/controllers/products_controller.rb"
+			],
+			[
+				"_",
+				"app/views/posts/_form.html.erb"
+			],
+			[
+				"edit",
+				"app/views/posts/edit.html.erb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"applicaiton",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"appl",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"routeres",
+				"vendor/bundle/gems/actionpack-4.0.0/lib/abstract_controller/railties/routes_helpers.rb"
+			],
+			[
+				"show.",
+				"app/views/pictures/show.html.erb"
+			],
+			[
+				"public/index.html",
+				"vendor/bundle/gems/sass-rails-4.0.0/test/fixtures/scss_project/public/index.html"
+			],
+			[
+				"public/index",
+				"vendor/bundle/gems/sass-rails-4.0.0/test/fixtures/sass_project/public/index.html"
+			],
+			[
+				"public/in",
+				"vendor/bundle/gems/sass-rails-4.0.0/test/fixtures/alternate_config_project/public/index.html"
+			],
+			[
+				"appliction.hm",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"pictures",
+				"app/controllers/pictures_controller.rb"
+			],
+			[
+				"creat",
+				"db/migrate/20130904142103_create_posts.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/BitMaker/Project 1/Project 1.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
